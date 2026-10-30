@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/fushimiin-gyoshu",
  "yomi": "ふしみいんぎょしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "御集",
+  "era": "鎌倉後期",
+  "author": "伏見院",
+  "desc": "伏見院の御集。春20首に始まる百首のほか、恋五首・雑五首などの題詠を収め、山家嵐・社頭祝などの題も見える。"
+ },
  "editions": [
   {
    "pid": "1088203",
